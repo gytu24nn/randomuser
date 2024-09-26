@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+header {
+    background-color: #f6b26b;
+    width: 100%;
+    color: whitesmoke;
+    padding: 1em;
+
+}
+#textRandomUser{
+    margin-top: 3rem;
+}
+#btn {
+    margin-top: 4rem;
+    padding: 2em;
+    font-size: 1rem;
+    border-radius: 10%;
+    background-color: #f6b26b;
+    border-style: dotted;
+
+
+}
+#userInfo {
+    margin-top: 2rem;
+}
